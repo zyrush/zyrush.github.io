@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>delicious food</title>
+</head>
+<body bgcolor="white" text="black">
+<b>
+<h2>
+<a href="index.html">
+<input type=button value="return" >
+</a>
+<br>
+<h1>
+<center>
+Xinjiang is a place with a lot of delicious food<br>
+Where the fruit is sweet.<br>
+Beef and mutton, fresh and tender.<br>
+</center>
+</h1>
+<center>
+<img src="382771799149224175.jpg"  alt="food" /width=" 600" height="600">
+</center>
+<br>
+<center>
+<i>
+jiasha
+</i>
+</center>
+<p>
+<center>
+<img src="381360000346133345.jpg"  alt="food" /width=" 600" height="600">
+</center>
+<br>
+<i>
+<center>
+Fried Rice noodles in Xinjiang
+</center>
+</i>
+</body>
+</html>

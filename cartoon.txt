@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>cartoon</title>
+</head>
+<body bgcolor="white" text="black">
+<b>
+<h2>
+<a href="index.html">
+<input type=button value="return" >
+</a>
+<br>
+<h1>
+This is one of my favorite cartoons.<br>
+I watched it with my brother when we were kids.<br>
+Now it's updated for two seasons, and I watch it with my roommate.<p>
+</h1>
+<center>
+<img src="45755804910373984.jpg"  alt="image" /width=" 800" height="500">
+</center>
+<br>
+<center>
+<i>
+Lambs to the cosmic slaughter!
+</i>
+</center>
+<p>
+<center>
+<img src="18970154439390151.jpg"  alt="image" /width=" 800" height="500">
+</center>
+<br>
+<i>
+<center>
+When you know nothing matters, the universe is yours.
+</center>
+</i>
+</body>
+</html>

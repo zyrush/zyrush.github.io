@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>sights</title>
+</head>
+<body bgcolor="white" text="black">
+<b>
+<h2>
+<a href="index.html">
+<input type=button value="return" >
+</a>
+<br>
+<h1>
+<center>
+The scenery in Xinjiang is very beautiful.<br>
+There are many famous scenic spots.<br>
+We went to Urumqi, Turpan and so on .<br>
+</center>
+</h1>
+<center>
+<img src="468215183870257158.jpg"  alt="Turpan" /width=" 600" height="600">
+</center>
+<br>
+<center>
+<i>
+Turpan
+</i>
+</center>
+<p>
+<center>
+<img src="814693822098952079.jpg"  alt="Urumqi" /width=" 600" height="600">
+</center>
+<br>
+<i>
+<center>
+Urumqi
+</center>
+</i>
+</body>
+</html>
